@@ -4,20 +4,19 @@
 <details>
 
 ## About Me 🙋‍♂️
-<!-- <p align="left"> <a href="https://twitter.com/tho6666" target="blank"><img src="https://img.shields.io/twitter/follow/tho6666?logo=twitter&style=for-the-badge" alt="@Tho6666" /></a> </p> -->
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/tho6666?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🔭 I’m currently working on **open source project Gnoland blockchain**
 
 - 🌱 I’m currently learning **blockchain and web3**
 
-<!-- - 👯 I’m looking to collaborate on **GNO** -->
 
-- 💬 About Me : **A relentless explorer in the realm of technology, I thrive on the challenge of mastering new tools and frameworks. With a passion for blockchain and Web3, I aim to push the boundaries of what's possible and contribute to the ever-evolving tech landscape.**
+- 💬  **A relentless explorer in the realm of technology, I thrive on the challenge of mastering new tools and frameworks. With a passion for blockchain and Web3, I aim to push the boundaries of what's possible and contribute to the ever-evolving tech landscape.**
 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tho6666" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a> -->
 </p>
 </p>
 
