@@ -12,7 +12,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **GNO** -->
 
-- 💬 About Me : **A person who wants to excel and learn new things to contribute, to create solutions in the game that is life.**
+- 💬 About Me : **A relentless explorer in the realm of technology, I thrive on the challenge of mastering new tools and frameworks. With a passion for blockchain and Web3, I aim to push the boundaries of what's possible and contribute to the ever-evolving tech landscape.**
 
 
 <!-- <h3 align="left">Connect with me:</h3>
